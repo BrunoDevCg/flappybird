@@ -1,0 +1,19 @@
+{
+  "name": "flappy",
+  "version": "1.0.0",
+  "description": "Flappy Bird by Bruno",
+  "main": "flappy.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ybruno/Flappy.git"
+  },
+  "author": "Bruno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ybruno/Flappy/issues"
+  },
+  "homepage": "https://github.com/ybruno/Flappy#readme"
+}
