@@ -41,7 +41,9 @@ Tecnologias Utilizadas
 
 Como Executar o Projeto
 
-    Clone este repositório.
+    Acesse: https://brunodevcg.github.io/flappybird/flappy.html
+    
+    Ou clone este repositório.
     Abra o arquivo flappy.html em qualquer navegador web moderno.
     Clique no botão Iniciar jogo para começar.
 
